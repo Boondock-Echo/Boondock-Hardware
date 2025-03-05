@@ -1,4 +1,0 @@
-Speaker plugs into LOUT on Audio Kit
-Dip Switches All in "ON" position on Audio Kit
-Physically Remove MIC2 on Audio Kit otherwise noise on top of radio in
-See "Ribbon Position" pictures for how to connect to sidekick
