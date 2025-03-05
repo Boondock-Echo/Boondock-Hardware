@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Boondock-r3")(type "KiCad")(uri "//TNAS-2DE8/public/DesignWork/KiCAD/Boondock-Audiokit-Sidekick/BDEcho-AKit-Sidekick-r3/Boondock-r3.pretty")(options "")(descr ""))
+)
