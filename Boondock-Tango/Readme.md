@@ -26,6 +26,6 @@ https://amzn.to/41BS4tv Audio kit <-- only this version of Audiokit for now.
 https://amzn.to/3FczcK6 microsd card
 https://amzn.to/3DtEq3F Uniden BC125AT <-- only this version of scanner for now, but we plan to add more as needed.
 
-and the 3D design files are attached below.  Feel free to change them, fork them, etc.  They will be up at github shortly and then I'll change this message.
+The 3D design files are in the 3DFiles directory.  Feel free to change them, fork them, etc.  They will be up at github shortly and then I'll change this message.
 
 We do have an ask though.  Once you build your Boondock Tango -- please give us a chance to earn your business over at www.boondockecho.com  We give you a free month of premium service to check it all out
