@@ -1,31 +1,73 @@
 ## 3D Model: BoondockTango_CompleteAssembly v4
 [![3D Model Preview](https://github.com/user-attachments/assets/ce1674d1-0fea-459d-8531-50969a107050)](https://github.com/Boondock-Echo/Boondock-Hardware/blob/main/Boondock-Tango/3DFiles/BoondockTango_CompleteAssembly%20v4.stl)
 
-Boondock Tango is here! With all the uncertainty around tariffs, de minimus shipping delays, dutys, etc.  We decided to release a version that you can buy & build at home anywhere in the world!  Remember that we firmly believe in open-source goodness. 
+# Boondock Tango
 
-Boondock Tango is a receive only device currently designed to remotely control Uniden BC125AT from our web interface.  You can remotely control your device from anywhere you have an internet connection!  (Currently works on Windows, we're working through some issues on Linux, then we'll work on Mac)
+**Boondock Tango** is here! With all the uncertainty around tariffs, de minimis shipping delays, and duties, we've decided to release a version you can buy and build at home—anywhere in the world. We firmly believe in the power of open-source goodness.
 
-You can modify, make, and even 3d print cases for others for profit anywhere in the world. We are actively encouraging it!  Start an Etsy store, sell them on eBay, etc.  We are not taking a percentagem, but at the same time, if something breaks, you'll need to support the customer.
+---
 
-Designing things takes time.  And if you are so inclined, please consider buying us a cup of coffee, or a can of Diet Dr. Pepper here:
-https://www.paypal.com/ncp/payment/ZGAUS5ZF8CGH6
+## About Boondock Tango
 
-You can find everything you need on ebay, aliexpress, or amazon.
+Boondock Tango is a **receive-only device** currently designed to remotely control the [Uniden BC125AT](https://amzn.to/3DtEq3F) via our web interface. Control your device from anywhere with an internet connection!
 
-Here's the list we used to make the prototypes (we get 2.5% of these links from Amazon!
+> **Note:**  
+> - Currently works on Windows.  
+> - We're resolving some Linux issues, and macOS support is coming soon.
 
-https://www.amazon.com/hz/wishlist/ls/38CLS1T7VIC0?ref_=wl_share
-Here are the individual parts:
+---
 
-https://amzn.to/41zijAU microusb cord 
-https://amzn.to/3XATjrG usb hub 
-https://amzn.to/4iCurYD miniusb 
-https://amzn.to/3XxkQu3 usb-c female to usb A female adapter
-https://amzn.to/4iC329i usb-c male to USB A male cord
-https://amzn.to/41BS4tv Audio kit <-- only this version of Audiokit for now.
-https://amzn.to/3FczcK6 microsd card
-https://amzn.to/3DtEq3F Uniden BC125AT <-- only this version of scanner for now, but we plan to add more as needed.
+## Customization & Open Source Freedom
 
-The 3D design files are in the 3DFiles directory.  Feel free to change them, fork them, etc.  They will be up at github shortly and then I'll change this message.
+- **Modify and Build:**  
+  Feel free to modify, manufacture, and even 3D print cases for profit anywhere in the world.
+- **Sell Your Creations:**  
+  Start an Etsy store, sell them on eBay, etc.  
+  We don't take a percentage of your sales—though if something breaks, you'll need to support the customer.
 
-We do have an ask though.  Once you build your Boondock Tango -- please give us a chance to earn your business over at www.boondockecho.com  We give you a free month of premium service to check it all out
+---
+
+## Support Our Work
+
+Designing innovative products takes time. If you’re inclined, please consider [buying us a cup of coffee or a can of Diet Dr. Pepper](https://www.paypal.com/ncp/payment/ZGAUS5ZF8CGH6).
+
+---
+
+## Parts & Components
+
+You can find everything you need on eBay, AliExpress, or Amazon. Below is the list we used for the prototypes (we earn 2.5% from these Amazon links):
+
+### Amazon Wishlist
+- [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/38CLS1T7VIC0?ref_=wl_share)
+
+### Individual Parts
+- [Micro USB Cord](https://amzn.to/41zijAU)
+- [USB Hub](https://amzn.to/3XATjrG)
+- [Mini USB](https://amzn.to/4iCurYD)
+- [USB-C Female to USB A Female Adapter](https://amzn.to/3XxkQu3)
+- [USB-C Male to USB A Male Cord](https://amzn.to/4iC329i)
+- [Audio Kit](https://amzn.to/41BS4tv)  
+  *Note: Currently, only this version of the Audio Kit is supported.*
+- [MicroSD Card](https://amzn.to/3FczcK6)
+- [Uniden BC125AT Scanner](https://amzn.to/3DtEq3F)  
+  *Note: Currently, only this version of the scanner is supported (more models may be added later).*
+
+---
+
+## 3D Design Files
+
+The 3D design files are available in our GitHub repository:
+
+- [Boondock Tango 3D Design Files](https://github.com/Boondock-Echo/Boondock-Hardware/tree/11cf6c4d8327e0f3b61fcb1ea79894d121b96836/Boondock-Tango)
+
+Feel free to modify, fork, or contribute. These files will be updated on GitHub soon, and this message will be revised accordingly.
+
+---
+
+## Special Offer
+
+Once you build your Boondock Tango, please give us a chance to earn your business over at [Boondock Echo](http://www.boondockecho.com). Enjoy a **free month of premium service** to check it all out!
+
+---
+
+*Thank you for supporting open-source and DIY innovation!*
