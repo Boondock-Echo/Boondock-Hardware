@@ -51,6 +51,7 @@ You can find everything you need on eBay, AliExpress, or Amazon. Below is the li
 - [MicroSD Card](https://amzn.to/3FczcK6)
 - [Uniden BC125AT Scanner](https://amzn.to/3DtEq3F)  
   *Note: Currently, only this version of the scanner is supported (more models may be added later).*
+- [Ground Loop Isolator](https://amzn.to/4iAjIxV)
 
 ---
 
