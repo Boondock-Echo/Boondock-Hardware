@@ -9,11 +9,12 @@
 
 ## About Boondock Tango
 
-Boondock Tango is a **receive-only device** currently designed to remotely control the [Uniden BC125AT](https://amzn.to/3DtEq3F) via our web interface. Control your device from anywhere with an internet connection!
+Boondock Tango is a **receive-only device for scanners** currently designed to remotely control the [Uniden BC125AT](https://amzn.to/3DtEq3F) via our web interface. Control your device from anywhere with an internet connection!
 
 > **Note:**  
 > - Currently works on Windows.  
-> - We're resolving some Linux issues, and macOS support is coming soon.
+> - Mostly works on some flavors of Linux -- We're resolving some issues
+> - macOS support is coming soon.
 
 ---
 
@@ -23,13 +24,14 @@ Boondock Tango is a **receive-only device** currently designed to remotely contr
   Feel free to modify, manufacture, and even 3D print cases for profit anywhere in the world.
 - **Sell Your Creations:**  
   Start an Etsy store, sell them on eBay, etc.  
-  We don't take a percentage of your sales—though if something breaks, you'll need to support the customer.
+  We don't take a percentage of your sales, but if something breaks, you'll need to support the customer.
 
 ---
 
 ## Support Our Work
 
-Designing innovative products takes time. If you’re inclined, please consider [buying us a cup of coffee or a can of Diet Dr. Pepper](https://www.paypal.com/ncp/payment/ZGAUS5ZF8CGH6).
+Designing innovative products takes time. 
+If you’re inclined, please consider [buying us a cup of coffee or a can of Diet Dr. Pepper](https://www.paypal.com/ncp/payment/ZGAUS5ZF8CGH6).
 
 ---
 
@@ -61,7 +63,11 @@ The 3D design files are available in our GitHub repository:
 
 - [Boondock Tango 3D Design Files](https://github.com/Boondock-Echo/Boondock-Hardware/tree/11cf6c4d8327e0f3b61fcb1ea79894d121b96836/Boondock-Tango)
 
-Feel free to modify, fork, or contribute. These files will be updated on GitHub soon, and this message will be revised accordingly.
+Feel free to modify, fork, or contribute.
+
+Here is how they all go together.
+
+![Assembly Video](https://github.com/Boondock-Echo/Boondock-Hardware/blob/main/Boondock-Tango/Media%20Assets/Videos/BoondockTangoAssembly.gif)
 
 ---
 
