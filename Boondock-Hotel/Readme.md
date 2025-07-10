@@ -67,7 +67,7 @@ Feel free to modify, fork, or contribute.
 
 Here is how they all go together.
 
-![Assembly Video](https://github.com/Boondock-Echo/Boondock-Hardware/blob/main/Boondock-Hotel/Media-Assets/Videos/BoondockHotelAssembly.gif)
+![Assembly Video](Boondock-Hotel/Media-Assets/Videos/Boondock-Hotel-Assembly.gif)
 
 
 
