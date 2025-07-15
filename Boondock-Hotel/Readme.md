@@ -61,13 +61,15 @@ You can find everything you need on eBay, AliExpress, or Amazon. Below is the li
 
 The 3D design files are available in our GitHub repository:
 
-- [Boondock Hotel 3D Design Files](https://github.com/Boondock-Echo/Boondock-Hardware/tree/11cf6c4d8327e0f3b61fcb1ea79894d121b96836/Boondock-Hotel)
+- [Boondock Hotel 3D Design Files](3D-Files/Tall-Case)
 
 Feel free to modify, fork, or contribute.
 
 Here is how they all go together.
 
-![Assembly Video](https://github.com/Boondock-Echo/Boondock-Hardware/blob/main/Boondock-Hotel/Media%20Assets/Videos/BoondockHotelAssembly.gif)
+![Assembly Video](Media-Assets/Videos/Boondock-Hotel-Assembly.gif)
+
+
 
 ---
 
