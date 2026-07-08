@@ -17,8 +17,6 @@ Boondock Tango is a **receive-only device for scanners and radios**
 
 ---
 
----
-
 ## Support Our Work
 
 Designing innovative products takes time. 
